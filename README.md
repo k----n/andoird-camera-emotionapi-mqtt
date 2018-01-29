@@ -32,4 +32,4 @@ Payload:
 
 ### Topic: `image`
 
-The payload of this message is the JPEG image taken by the camera.
+The payload of this message is the result from Emotion API.
